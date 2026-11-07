@@ -2,6 +2,8 @@
 
 A machine learning project that predicts whether a customer is likely to **churn** using an **Artificial Neural Network (ANN)**. The project includes data preprocessing, feature encoding, feature scaling, model training, and a **Streamlit web application** for making predictions.
 
+Demo Link:https://customerchurnprediction-nvbxuenmlefdeblyfxrpfj.streamlit.app/
+
 ## Features
 
 - Customer churn prediction using ANN
